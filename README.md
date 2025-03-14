@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems 
 - 🌱 I’m currently learning about AI and how I can use it in embedded systems
 - 📫 How to reach me: boubekabilal@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bilal-boubeka-53269a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 Follow Me on : [LinkedIn](https://www.linkedin.com/in/bilal-boubeka-53269a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📄 [My CV](https://docs.google.com/document/d/1uPEcNdUUMvlU1rXWpdo9XPbPYrJvzARJnESaRzreJyU/edit?usp=sharing)
 
 
