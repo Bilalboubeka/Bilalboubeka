@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bilalboubeka
-- 👀 I’m interested in embedded systems 
+- 👀 I’m  embedded systems engineer
 - 🌱 I’m currently learning about AI and how I can use it in embedded systems
 - 📫 How to reach me: boubekabilal@gmail.com
 - 🔗 Follow Me on : [LinkedIn](https://www.linkedin.com/in/bilal-boubeka-53269a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
