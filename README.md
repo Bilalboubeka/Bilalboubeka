@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about AI and how I can use it in embedded systems
 - 📫 How to reach me: boubekabilal@gmail.com
 - 🔗 Follow Me on : [LinkedIn](https://www.linkedin.com/in/bilal-boubeka-53269a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📄 [My CV]([https://docs.google.com/document/d/1uPEcNdUUMvlU1rXWpdo9XPbPYrJvzARJnESaRzreJyU/edit?usp=sharing](https://drive.google.com/file/d/1ouKZwpdBFrDRyXbvriZSDR5Rzdm5u0a7/view?usp=drive_link))
+- 📄 [My CV]([https://docs.google.com/document/d/1uPEcNdUUMvlU1rXWpdo9XPbPYrJvzARJnESaRzreJyU/edit?usp=sharing](https://drive.google.com/file/d/1ouKZwpdBFrDRyXbvriZSDR5Rzdm5u0a7/view?usp=drive_link)
 
 
 
